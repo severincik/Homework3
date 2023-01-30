@@ -280,6 +280,7 @@ button {
 .card-names{
     padding: 32px 16px;
     border: 1px solid #E7E9FC;
+    border-top: none;
 }
 
 .text{
