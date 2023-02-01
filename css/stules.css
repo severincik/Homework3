@@ -44,12 +44,17 @@ button {
 
 
 .logo{
-    padding: 24px 0px;
+    
 }    
+
+.link-menu{
+    margin-left: 76px;
+}
 
 .header{
     display: flex;
     border-bottom: 1px solid #E7E9FC;
+    padding: 24px 0;
 }
 
 
@@ -57,30 +62,23 @@ button {
 .list-link{
     display: flex;
     gap: 40px;
-    padding: 24px 0px;
-    margin-left: 76px;
 }
 
 
 .contacts{
     display: flex;
     gap: 40px;
-    padding: 24px 0px;
     margin-left: auto;
-    margin-right: 156px;
 }
 
 .contacts-link{
     
 }
 
-.buttons-list{
-    padding-top: 96px;
-    margin-bottom: 72px;
-}
 
-.card-grid{
+.content{
     padding-bottom: 120px;
+    padding-top: 96px;
 }
 
 .section-1{
@@ -228,6 +226,7 @@ button {
     justify-content: center;
     flex-wrap: wrap;
     gap: 24px;
+    margin-bottom: 72px;
 }
 
 .hero-button:hover{
